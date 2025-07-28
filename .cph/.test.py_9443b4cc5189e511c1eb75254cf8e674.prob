@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/mnt/v/2-storage/repositories/cryptography/test.py","tests":[{"id":1753696358359,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/v/2-storage/repositories/cryptography/test.py","group":"local","local":true}

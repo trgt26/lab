@@ -1,0 +1,1 @@
+{"name":"Local: dh","url":"/mnt/v/2-storage/repositories/cryptography/dh.py","tests":[{"id":1753711390763,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/v/2-storage/repositories/cryptography/dh.py","group":"local","local":true}

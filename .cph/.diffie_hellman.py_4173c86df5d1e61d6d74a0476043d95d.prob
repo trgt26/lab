@@ -1,0 +1,1 @@
+{"name":"Local: diffie_hellman","url":"/mnt/v/2-storage/repositories/cryptography/diffie_hellman.py","tests":[{"id":1753717924689,"input":"17\n7\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/v/2-storage/repositories/cryptography/diffie_hellman.py","group":"local","local":true}

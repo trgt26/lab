@@ -1,0 +1,1 @@
+{"name":"Local: test_playfair","url":"/mnt/v/2-storage/repositories/cryptography/test_playfair.py","tests":[{"id":1753729001599,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/v/2-storage/repositories/cryptography/test_playfair.py","group":"local","local":true}
